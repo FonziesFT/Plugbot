@@ -31,7 +31,10 @@ September 14, 2013 | <ul><li>Temporarily removed adding pictures to the userlist
 ### Installation ###
 
 Piece of cake!  Just drag this code to your bookmarks bar and rename it to whatever you like.
-```javascript:(function(){$.getScript('https://raw.github.com/connergdavis/Plugbot/master/plugbot-loader.js');}()); ```
+```
+javascript:(function(){$.getScript('https://raw.github.com/connergdavis/Plugbot/master/
+plugbot-loader.js');}());
+```
 
 
 
