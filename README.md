@@ -1,3 +1,17 @@
+# DO NOT USE THIS SOFTWARE
+
+Hi, I'm the developer of plug.bot.  Plug.dj has released a new update which makes plug.bot useless as a whole just because of the magnitude of design and mechanical chances they made to plug.dj.  I don't spend nearly as much time as I would like to on this project because I have lost interest in plug.dj almost entirely, so until further notice, I've decided to shutdown the project and warn new users or confused existing users that **plug.bot will no longer work for you**.  There's just too much new stuff and I don't have the desire nor the time to dedicate to updating it all right now.
+
+That being said, don't give up on me, because I might come back to it sooner or later.  Stay tuned, and for now, I'd recommend separate scripts, or just staying script-less for a while;  I've heard good things about plugCubed, and I know the author, DJ Gummy, is a good guy and likely maintains it well.
+
+*Do not* e-mail me about plug.bot, about other scripts, or about plug.dj at all.  If you have the desire to work on updating plug.bot so it can function properly with these new updates, I welcome you to the project.  Just e-mail me of your interest, or create a fork of the repository and request a pull -- be sure to be specific with your edits, of course.  
+
+Thanks everyone.
+
+
+# In other words, ignore ABSOLUTELY EVERYTHING beneath this.
+
+
 ## plug.bot
 
 A collection of extensions to the growing online DJing website, [plug.dj](http://plug.dj).  The source code is written in JavaScript and uses the Plug.dj API anywhere possible.  Easily embeddable as a bookmark in your favorite browser.  Initially inspired by TechGuard's AutoWoot script from April 2012.
