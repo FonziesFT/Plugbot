@@ -1,13 +1,8 @@
-# DO NOT USE THIS SOFTWARE
+# Please use [plug.bot enhanced developed by contributor ebola777](https://github.com/ebola777/Plugbot-Enhanced).
 
-Hi, I'm the developer of plug.bot.  Plug.dj has released a new update which makes plug.bot useless as a whole just because of the magnitude of design and mechanical chances they made to plug.dj.  I don't spend nearly as much time as I would like to on this project because I have lost interest in plug.dj almost entirely, so until further notice, I've decided to shutdown the project and warn new users or confused existing users that **plug.bot will no longer work for you**.  There's just too much new stuff and I don't have the desire nor the time to dedicate to updating it all right now.
+Hello everyone!  This is the developer of plug.bot.  I've not been maintaining this project for over a year, due to a mixed lack of interest in plug.dj as well as simple lack of time available to spend on it.  Thankfully, an awesome developer named ebola777 has revived plug.bot with his version.  Please, feel free to use it!  It has nearly everything people loved about plug.bot, except it *actually works* in the present-day Plug.dj environment.
 
-*Do not* e-mail me about plug.bot, about other scripts, or about plug.dj at all.  If you have the desire to work on updating plug.bot so it can function properly with these new updates, I welcome you to the project.  Just e-mail me of your interest, or create a fork of the repository and request a pull -- be sure to be specific with your edits, of course.  
-
-Thanks everyone.
-
-
-# In other words, ignore ABSOLUTELY EVERYTHING beneath this.
+Thanks!
 
 
 ## plug.bot
