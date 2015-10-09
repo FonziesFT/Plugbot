@@ -1,3 +1,8 @@
+# Plug.dj is officially shutting down.
+
+Although I don't use Plug.dj anymore, it appears that the website itself has officially been shut down (or will be soon).  It is sad to see that the company was unable to support itself any longer.  :(
+
+
 # Please use [plug.bot enhanced developed by contributor ebola777](https://github.com/ebola777/Plugbot-Enhanced).
 
 Hello everyone!  This is the developer of plug.bot.  I've not been maintaining this project for over a year, due to a mixed lack of interest in plug.dj as well as simple lack of time available to spend on it.  Thankfully, an awesome developer named ebola777 has revived plug.bot with his version.  Please, feel free to use it!  It has nearly everything people loved about plug.bot, except it *actually works* in the present-day Plug.dj environment.
